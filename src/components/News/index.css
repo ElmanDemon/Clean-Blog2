@@ -1,0 +1,11 @@
+.news {
+    width: 30%;
+    margin: auto;
+    padding: 10px;
+}
+.news p{
+    font-size: 20px;
+}
+.news div{
+    padding: 20px;
+}

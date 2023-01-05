@@ -1,0 +1,16 @@
+header{
+    
+    background-image: url(../../images/headerbg1.jpg);
+    height: 60vh;
+    background-position: center;
+    background-size: cover
+}
+.navbar{
+    background: transparent !important;
+}
+h1{
+    font-size: 100px;
+}
+.name p{
+    font-size: 25px;
+}
